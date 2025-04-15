@@ -1,0 +1,14 @@
+/* CSS */
+body{
+  background: #ffff;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.home-container {
+    display: block; /* Pastikan mode display normal */
+    margin-top: 80px; /* Beri ruang untuk navbar fixed */
+    background-color: #ffff;
+  }
+  
+  .main-content {
+    padding: 20px;
+  }
